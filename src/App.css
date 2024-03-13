@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+Body {
+  text-align: center;
+  background-color: rgb(10, 2, 2);
+}
+.main-header {
+  font-family: "Montserrat", sans-serif;
+  align-items: center;
+  justify-content: center;
+  color: whitesmoke;
+}
+
+.create-form {
+  text-align: center;
+  border: 0.5rem solid black;
+  color: whitesmoke;
+  justify-content: center;
+  align-items: center;
+}
+
+label,Button{
+  color: whitesmoke !important;
+}
